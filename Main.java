@@ -1,3 +1,4 @@
+//Comentari
 import java.util.Scanner;
 
 public class Main {
@@ -23,4 +24,3 @@ public class Main {
 	System.out.println("El numero mas grande es: "+mesgran);
     }
 }
-//Comentari projecte1
