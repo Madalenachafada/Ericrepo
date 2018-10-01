@@ -20,7 +20,7 @@ public class Main {
 		}
         }
         System.out.println("El numero mas pequeño es: "+mespetit);
-	System.out.println("El numero mas grande es: "+mesgran)
+	System.out.println("El numero mas grande es: "+mesgran);
     }
 }
 //Comentari projecte1
